@@ -1,3 +1,2 @@
-Experiment 3 - Branching and Merging
-Rebase demonstration
 Conflict change from main
+Conflict change from branch
